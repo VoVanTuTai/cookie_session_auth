@@ -15,7 +15,7 @@ body->raw->chỉnh type sang Json nội dung "{"username":"admin", "password":"1
 mongo sau khi đăng nhập lưu dữ liệu vòa session
 <img width="960" height="540" alt="3000" src="https://github.com/VoVanTuTai/cookie_session_auth/blob/main/Images_report/mongo_after_login.png" />
 GET: http://localhost:3000/auth/profile
-<img width="960" height="540" alt="3000" src="https://github.com/VoVanTuTai/cookie_session_auth/blob/main/Images_report/auth_profile.png" />
+<img width="960" height="540" alt="3000" src="https://github.com/VoVanTuTai/cookie_session_auth/blob/main/Images_report/auth_profile_after_login.png" />
 GET: http://localhost:3000/auth/logout
 <img width="960" height="540" alt="3000" src="https://github.com/VoVanTuTai/cookie_session_auth/blob/main/Images_report/auth_logout.png" />
 Sau khi logout session bị xóa
